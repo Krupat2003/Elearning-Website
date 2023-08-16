@@ -1,0 +1,136 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.navigation {
+    background-color: #6e6c6c;
+}
+
+.home {
+    width: 100%;
+    height: 90vh;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url("https://img.freepik.com/free-photo/young-female-university-graduate-academic-cap-sitting-table-smiling-pointing-left-future-lawyer-engineer-showing-idea_176420-14245.jpg?w=1060&t=st=1690870995~exp=1690871595~hmac=3879df75fd4542ae2741bc301b143739b7b4c4da59f7374ed784393dcac12acd");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contant {
+    padding-top: 120px;
+    padding-left: 30px;
+}
+
+.btn {
+    border: 1px solid black;
+    background-color: transparent;
+    color: #f0e3e3;
+}
+
+.btnn1 {
+    background-color: #4d4d4d;
+    outline: none;
+    border: 1px solid black;
+    color: #f0e3e3;
+    padding: 4px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+}
+
+.btnn1:hover {
+    color: #4d4d4d;
+    background-color: transparent;
+    transition: 1s;
+}
+
+.spece {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.car1 i {
+    color: #4d4d4d;
+    font-size: 40px;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+.cradbody {
+    text-align: center;
+}
+
+.cradbody h1 {
+    color: black;
+}
+
+.abouttext {
+    padding-left: 30px;
+}
+
+.abouttext h5 {
+    text-align: center;
+}
+
+.about {
+    text-align: center;
+    color: black;
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.hed1 {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.cont1 {
+    text-align: center;
+    /* background-color: #fff; */
+}
+
+.contbg {
+    background-color: #dad5d5;
+}
+
+.log1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.footerbg {
+    /* background-color: rgb(230, 226, 226); */
+    background-color: #908d8d;
+}
+
+.feedbacktext {
+    color: #4d4d4d;
+    text-align: center;
+}
+
+.logo {
+    width: 95px;
+    height: 65px;
+}
+
+.logo img {
+    width: 100%;
+    height: 60px;
+}
+
+.hover1 li a:hover {
+    text-decoration: underline;
+
+}
+
+.backgroundimg1 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQzDRsQ9zNfa-WxFkGgc2YNLznwkVE_HWEfTtmJxhAXjfjDkBO1");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 300px;
+    margin-bottom: 30px;
+    padding: 30px 0;
+}
